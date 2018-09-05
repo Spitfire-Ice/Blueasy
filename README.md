@@ -8,5 +8,3 @@
     "server:prod": "http-server dist -o"
 
 Didnt work Media Queries in section "contact"
-
-wrong path to background-image from css(dev and prod)
