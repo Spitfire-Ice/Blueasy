@@ -1,0 +1,56 @@
+.testiomonials {
+  width: 100%;
+  background-color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.testiomonials__work-layer {
+  max-width: 1170px;
+  margin: 0 auto;
+  position: relative;
+  h3 {
+    font-size: 30px;
+    font-family: "Segoe UI";
+    color: #515f67;
+    text-transform: uppercase;
+    line-height: 0.8;
+    font-weight: lighter;
+  }
+  .testiomonials__decoration-object {
+    font-size: 72px;
+    font-family: "Bitter";
+    color: rgb(81, 95, 103);
+    font-weight: bold;
+    line-height: 0.694;
+    position: absolute;
+    right: 5px;
+    top: 0;
+  }
+}
+.testiomonials__content {
+  max-width: 1055px;
+  margin-top: 40px;
+  p {
+    font-size: 28px;
+    font-family: "Segoe UI";
+    color: rgb(81, 95, 103);
+    line-height: 1.786;
+    font-weight: lighter;
+  }
+  article {
+    font-size: 14px;
+    font-family: "Segoe UI";
+    color: rgb(75, 202, 255);
+    font-weight: bold;
+    line-height: 3.571;
+  }
+
+}
+
+
+
+
+
+
+
+
