@@ -1,0 +1,56 @@
+.who-is {
+  width: 100%;
+  background: url("../img/background/who-is.jpg") no-repeat center;
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.who-is__work-layer {
+  max-width: 1170px;
+  margin: 0 auto;
+  h3 {
+    font-size: 30px;
+    font-family: "Segoe UI";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 0.8;
+    font-weight: lighter;
+  }
+}
+.who-is__content {
+  width: 100%;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.who-is__content-item {
+  font-size: 14px;
+  font-family: "Segoe UI";
+  color: rgb(255, 255, 255);
+  line-height: 1.714;
+  width: 554px;
+  height: 159px;
+  p {
+    margin-bottom: 40px;
+  }
+}
+.social-media-icon {
+
+  i {
+    font-size: 30px;
+    border: 2px solid #ffffff;
+    padding: 15px;
+    margin-left: 10px;
+  }
+  i:first-child {
+    margin-left: 0;
+  }
+}
+
+
+
+
+
+
