@@ -1,0 +1,63 @@
+.video-content {
+  width: 100%;
+}
+.video-content__work-layer {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-bottom: 250px;
+  h3 {
+    font-size: 30px;
+    font-family: "Segoe UI";
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 0.8;
+    text-align: left;
+    font-weight: lighter;
+    padding-top: 80px;
+  }
+}
+.video-content__container {
+  margin-top: 70px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  .video-content__container-caption {
+    width: 470px;
+    height: 265px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    article {
+      font-size: 20px;
+      font-family: "Segoe UI";
+      color: rgb(255, 255, 255);
+      text-transform: uppercase;
+      line-height: 0.8;
+      text-align: left;
+      font-weight: lighter;
+    }
+    p {
+      font-size: 14px;
+      font-family: "Segoe UI";
+      color: rgb(255, 255, 255);
+      line-height: 1.714;
+      text-align: left;
+    }
+  }
+}
+.video-content__container:last-child {
+  flex-wrap: wrap-reverse;
+}
+
+
+
+
+
+
+
+
+
+
+

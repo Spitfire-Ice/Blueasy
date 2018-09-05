@@ -1,0 +1,22 @@
+.video-button {
+  width: 140px;
+  height: 45px;
+  border: 2px solid rgb(53, 63, 70);
+  font-size: 14px;
+  font-family: "Segoe UI";
+  color: rgb(53, 63, 70);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.714;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.video-button:hover {
+  border: 2px solid #33ccff;
+  color: #33ccff;
+}
+
+
+
